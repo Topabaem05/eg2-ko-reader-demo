@@ -1,9 +1,10 @@
-# EG2-KO Reader — project page
+# Haverbex — site
 
-The built project page of EG2-KO Reader, a Korean speech-to-text reader on top of the
-EmbeddingGemma 2 audio encoder.
+The built static site of Haverbex.
 
-*   Page: https://topabaem05.github.io/eg2-ko-reader-demo/
+*   Company page: https://topabaem05.github.io/eg2-ko-reader-demo/
+*   EG2-KO Reader (a Korean speech-to-text reader on top of the EmbeddingGemma 2 audio
+    encoder): https://topabaem05.github.io/eg2-ko-reader-demo/eg2-ko-reader/
 *   Model: https://huggingface.co/Haverbex/eg2-ko-reader
 *   Demo Space: https://huggingface.co/spaces/topabaem/eg2-ko-reader-demo
 
